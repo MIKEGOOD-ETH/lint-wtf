@@ -5,7 +5,7 @@ body, html {
     font-family: 'Silkscreen', sans-serif; 
     height: 100%;
     margin: 0;
-    background: linear-gradient(to right, #FFEBF0, #A3BAED); 
+    background-color: #FFEBF0;
     text-align: left; 
 }
 
